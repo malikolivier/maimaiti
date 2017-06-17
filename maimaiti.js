@@ -1,4 +1,4 @@
-let REGEX = new RegExp('穆罕默德|默罕默德', 'gi')
+let REGEX = new RegExp('穆罕默德|默罕默德|穆罕穆德', 'gi')
 let MAIMAITI = '买买提';
 
 /**
