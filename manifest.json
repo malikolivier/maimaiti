@@ -1,7 +1,7 @@
 {
         "manifest_version": 2,
         "name": "买买提",
-        "version": "1.0",
+        "version": "1.0.1",
         "description": "把所有穆罕默德换成买买提",
         "icons": {
                 "48": "icons/maimaiti-48.png",
